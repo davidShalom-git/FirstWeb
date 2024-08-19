@@ -1,0 +1,109 @@
+body{
+    background-image: url(DB/bg3.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+
+}
+
+.logo{
+    margin-left:580px;
+}
+
+.container{
+    margin-top: 100px;
+    border: 2px solid rgb(251, 247, 247);
+    width: 500px;
+    height: 715px;
+    color: white;
+    margin: 120px auto;
+    /* background-color: white; */
+
+    
+}
+h1{
+    text-align: center;
+    margin: 20px auto;
+    padding: 40px 0px 80px 0;
+    transition: .7s;
+}
+h2{
+    margin-left: 100px;
+    transition: .7s;
+}
+
+ input{
+    font-size: 15px;
+    display: flex;
+    border: 1px solid rgb(249, 246, 246);
+    border-radius: 70px;
+    width: 300px;
+    padding: 15px;
+    color: white;
+    transition: .7s;
+    background: none;
+}
+
+
+.box-1{
+    display: flex;
+    justify-content: center;
+    transition: .7s;
+}
+
+.box-2{
+
+    display: flex;
+    justify-content: center;
+    transition: .7s;
+
+}
+
+.box-3{
+
+    display: flex;
+    justify-content: center;
+    margin-bottom: 50px;
+    transition: .7s;
+
+}
+
+.box-4{
+    font-size: 25px;
+    border: none;
+    border-radius: 70px;
+    display:flex;
+    justify-content: center;
+    align-content: center;
+    padding-top: 20px;
+    width: 200px;
+    height: 50px;
+
+
+}
+
+a{
+    text-decoration: none;
+    color: white;
+    text-align: center;
+    margin-left: 300px;
+}
+
+a:hover{
+    color: grey;
+    transition: .7s;
+}
+
+a:active{
+    color: rgb(44, 184, 44);
+}
+
+a:visited{
+    color: rgb(125, 54, 125)
+}
+
+
+
+
+
+
